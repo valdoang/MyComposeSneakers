@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyComposeSneakers</string>
+    <string name="home_title">Home</string>
+    <string name="cart_title">Cart</string>
+    <string name="about_title">About</string>
+    <string name="home_page">home_page</string>
+    <string name="cart_page">cart_page</string>
+    <string name="about_page">about_page</string>
+    <string name="about_name">Valdo Febrian</string>
+    <string name="about_email">valdo.20010@mhs.unesa.ac.id</string>
+    <string name="price">$%d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Add to Cart : $%d</string>
+    <string name="total_order">Total Order : $%d</string>
+    <string name="back">Back</string>
+    <string name="nike_sneakers">Nike Sneakers</string>
+    <string name="share_message">Hey, I have purchase %1$d model sneakers in Nike with total $%2$d. Do you want too?</string>
+    <string name="search_sneakers">Search your sneakers</string>
+</resources>
